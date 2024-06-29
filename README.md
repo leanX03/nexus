@@ -15,7 +15,7 @@
 <h2>Installation</h2>
 
 > [!WARNING]
-> Current Version in development and some code can be edited or deleted in soon!
+> The current version is under development, and some of the code may be edited or deleted in the future!
 
 - Installation using the `pip` package manager
 ```bash
