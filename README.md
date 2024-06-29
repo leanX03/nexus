@@ -12,8 +12,8 @@
     <a href = "https://t.me/thelittlestoryteller_bot"><img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=209ed5&center=true&random=false&width=435&lines=Nexus;Simplicity+and+flexibility!"></a>
 </p>
 
-<h1 align = "center">Features</h1>
-<h3>Using</h3>
+<h1 align = "center">Using</h1>
+<h2>Installation</h2>
 ```bash
-$ python -m install nexus-toolbox
+$ python -m install nexus_tool
 ```
