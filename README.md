@@ -37,7 +37,7 @@ $ pip install git+https://github.com/leanX03/nexus
 Import `nexus_tool` in your project
 
 ```python
-from nexus_tool import Logger
+from nexuStool import Logger
 
 variabl = Logger()
 ```
