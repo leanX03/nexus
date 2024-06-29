@@ -14,6 +14,9 @@
 
 <h1 align = "center">Using</h1>
 <h2>Installation</h2>
+
+Install with `pip`
+
 ```bash
 $ python -m install nexus_tool
 ```
