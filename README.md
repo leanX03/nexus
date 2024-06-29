@@ -14,10 +14,22 @@
 
 <h2>Installation</h2>
 
-Install with `pip`
+> [!WARNING]
+> Current Version in development and some code can be edited or deleted in soon!
 
+- Installation using the `pip` package manager
 ```bash
-$ python -m install nexus_tool
+$ pip install nexuStool
+```
+- Install from GitHub *(requires [git](https://git-scm.com/downloads))*
+```bash
+$ git clone https://github.com/leanX03/nexus
+$ cd nexuStool
+$ python setup.py install
+```
+- Or
+```bash
+$ pip install git+https://github.com/leanX03/nexus
 ```
 
 <h2>Usage</h2>
