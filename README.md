@@ -19,7 +19,7 @@
 
 - Installation using the `pip` package manager
 ```bash
-$ pip install nexuStool
+$ python -m install nexuStool
 ```
 - Install from GitHub *(requires [git](https://git-scm.com/downloads))*
 ```bash
@@ -29,7 +29,7 @@ $ python setup.py install
 ```
 - Or
 ```bash
-$ pip install git+https://github.com/leanX03/nexus
+$ python -m install git+https://github.com/leanX03/nexus
 ```
 
 <h2>Usage</h2>
