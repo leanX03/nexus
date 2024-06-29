@@ -13,8 +13,7 @@
 </p>
 
 <h1 align = "center">Features</h1>
-    <hr>
-    <h6>Using</h6>
-    ```sh
-    python -m install nexus-toolbox
-    ```
+<h3>Using</h3>
+```bash
+$ python -m install nexus-toolbox
+```
